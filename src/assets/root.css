@@ -1,0 +1,16 @@
+:root {
+    /* 白天模式 */
+    --light-Front-facing-bg: rgb(230,209,209);
+    --light-Front-facing-text: black;
+    /* 夜间模式 */
+    --dark-Front-facing-bg: black;
+    --dark-Front-facing-text: rgb(230,209,209);
+    /* 其他样式 */
+    --cirle-color: #2bfa56;
+    --back-color: #f2f2f2;
+    --border-color: #e5e5e5;
+    --active-color: #e84118;
+    --input-color: #2f3640;
+    --border-bottom-color: #ebebeb;
+    --base-color: #f2f2f2;
+}
